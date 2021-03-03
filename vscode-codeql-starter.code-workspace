@@ -23,6 +23,13 @@
 		},
 		{
 			"path": "ql"
+		},
+		{
+			"name": "[cpp-database source archive]",
+			"uri": "codeql-zip-archive://0-61/Users/lamyabhasin/Documents/codeql-home/cpp-database/src.zip"
+		},
+		{
+			"path": "../codeql-uboot"
 		}
 	],
 	"settings": {
